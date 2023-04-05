@@ -14,6 +14,12 @@ Sklonuj to repo
 git clone https://github.com/sevnnn/xkom-hotshot.git && cd xkom-hotshot
 ```
 
+Utwórz i dostosuj swój plik `config.ini`
+
+```
+mv ./config.ini.dist ./config.ini
+```
+
 Następnie możesz uruchomić skrypt wpisując
 ```
 py main.py
